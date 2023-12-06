@@ -1,3 +1,3 @@
-# mood-swinger
+# mood-cure
 
-ca3 project for INT252
+MindCure Web App
