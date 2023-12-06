@@ -1,3 +1,3 @@
-# mood-cure
+# MindCure
 
 MindCure Web App
